@@ -1,0 +1,478 @@
+{
+  "name": "Copa América 2024",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "2024-06-20",
+          "time": "20:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 2",
+      "matches": [
+        {
+          "num": 2,
+          "date": "2024-06-21",
+          "time": "19:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 3",
+      "matches": [
+        {
+          "num": 7,
+          "date": "2024-06-22",
+          "time": "15:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Venezuela",
+            "code": "VEN"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        },
+        {
+          "num": 8,
+          "date": "2024-06-22",
+          "time": "20:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 4",
+      "matches": [
+        {
+          "num": 13,
+          "date": "2024-06-23",
+          "time": "17:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        },
+        {
+          "num": 14,
+          "date": "2024-06-23",
+          "time": "21:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Panama",
+            "code": "PAN"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 5",
+      "matches": [
+        {
+          "num": 19,
+          "date": "2024-06-24",
+          "time": "17:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        },
+        {
+          "num": 20,
+          "date": "2024-06-24",
+          "time": "18:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 6",
+      "matches": [
+        {
+          "num": 3,
+          "date": "2024-06-25",
+          "time": "17:00",
+          "team1": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "team2": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        },
+        {
+          "num": 4,
+          "date": "2024-06-25",
+          "time": "21:00",
+          "team1": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "team2": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 7",
+      "matches": [
+        {
+          "num": 9,
+          "date": "2024-06-26",
+          "time": "15:00",
+          "team1": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "team2": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        },
+        {
+          "num": 10,
+          "date": "2024-06-26",
+          "time": "18:00",
+          "team1": {
+            "name": "Venezuela",
+            "code": "VEN"
+          },
+          "team2": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 8",
+      "matches": [
+        {
+          "num": 15,
+          "date": "2024-06-27",
+          "time": "18:00",
+          "team1": {
+            "name": "Panama",
+            "code": "PAN"
+          },
+          "team2": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        },
+        {
+          "num": 16,
+          "date": "2024-06-27",
+          "time": "21:00",
+          "team1": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "team2": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 9",
+      "matches": [
+        {
+          "num": 21,
+          "date": "2024-06-28",
+          "time": "15:00",
+          "team1": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "team2": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        },
+        {
+          "num": 22,
+          "date": "2024-06-28",
+          "time": "18:00",
+          "team1": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "team2": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 10",
+      "matches": [
+        {
+          "num": 5,
+          "date": "2024-06-29",
+          "time": "20:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Peru",
+            "code": "PER"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        },
+        {
+          "num": 6,
+          "date": "2024-06-29",
+          "time": "20:00",
+          "team1": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "team2": {
+            "name": "Chile",
+            "code": "CHI"
+          },
+          "score": {
+          },
+          "group": "Group A"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 11",
+      "matches": [
+        {
+          "num": 11,
+          "date": "2024-06-30",
+          "time": "17:00",
+          "team1": {
+            "name": "Mexico",
+            "code": "MEX"
+          },
+          "team2": {
+            "name": "Ecuador",
+            "code": "ECU"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        },
+        {
+          "num": 12,
+          "date": "2024-06-30",
+          "time": "19:00",
+          "team1": {
+            "name": "Jamaica",
+            "code": "JAM"
+          },
+          "team2": {
+            "name": "Venezuela",
+            "code": "VEN"
+          },
+          "score": {
+          },
+          "group": "Group B"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 12",
+      "matches": [
+        {
+          "num": 17,
+          "date": "2024-07-01",
+          "time": "20:00",
+          "team1": {
+            "name": "United States",
+            "code": "USA"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        },
+        {
+          "num": 18,
+          "date": "2024-07-01",
+          "time": "21:00",
+          "team1": {
+            "name": "Bolivia",
+            "code": "BOL"
+          },
+          "team2": {
+            "name": "Panama",
+            "code": "PAN"
+          },
+          "score": {
+          },
+          "group": "Group C"
+        }
+      ]
+    },
+    {
+      "name": "Matchday 13",
+      "matches": [
+        {
+          "num": 23,
+          "date": "2024-07-02",
+          "time": "18:00",
+          "team1": {
+            "name": "Brazil",
+            "code": "BRA"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        },
+        {
+          "num": 24,
+          "date": "2024-07-02",
+          "time": "20:00",
+          "team1": {
+            "name": "Costa Rica",
+            "code": "CRC"
+          },
+          "team2": {
+            "name": "Paraguay",
+            "code": "PAR"
+          },
+          "score": {
+          },
+          "group": "Group D"
+        }
+      ]
+    },
+    {
+      "name": "Quarter-finals",
+      "matches": [
+
+      ]
+    },
+    {
+      "name": "Semi-finals",
+      "matches": [
+
+      ]
+    },
+    {
+      "name": "Third place play-off",
+      "matches": [
+
+      ]
+    },
+    {
+      "name": "Final",
+      "matches": [
+
+      ]
+    }
+  ]
+}

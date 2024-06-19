@@ -1,0 +1,69 @@
+{
+  "name": "Copa América 2024",
+  "teams": [
+    {
+      "name": "Argentina",
+      "code": "ARG"
+    },
+    {
+      "name": "Canada",
+      "code": "CAN"
+    },
+    {
+      "name": "Peru",
+      "code": "PER"
+    },
+    {
+      "name": "Chile",
+      "code": "CHI"
+    },
+    {
+      "name": "Ecuador",
+      "code": "ECU"
+    },
+    {
+      "name": "Venezuela",
+      "code": "VEN"
+    },
+    {
+      "name": "Mexico",
+      "code": "MEX"
+    },
+    {
+      "name": "Jamaica",
+      "code": "JAM"
+    },
+    {
+      "name": "United States",
+      "code": "USA"
+    },
+    {
+      "name": "Bolivia",
+      "code": "BOL"
+    },
+    {
+      "name": "Uruguay",
+      "code": "URU"
+    },
+    {
+      "name": "Panama",
+      "code": "PAN"
+    },
+    {
+      "name": "Colombia",
+      "code": "COL"
+    },
+    {
+      "name": "Paraguay",
+      "code": "PAR"
+    },
+    {
+      "name": "Brazil",
+      "code": "BRA"
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CRC"
+    }
+  ]
+}
