@@ -11,7 +11,33 @@ Example - Copa América 2024 Match Schedule (Fixtures and Results) - [`2024/copa
 
 ``` json
 {
-
+  "name": "Copa América 2024",
+  "rounds": [
+    {
+      "name": "Matchday 1",
+      "matches": [
+        {
+          "num": 1,
+          "date": "2024-06-20",
+          "time": "20:00",
+          "team1": { "name": "Argentina", "code": "ARG" },
+          "team2": { "name": "Canada",    "code": "CAN" },
+          "score": {},
+          "group": "Group A"
+        },
+        {
+          "num": 2,
+          "date": "2024-06-21",
+          "time": "19:00",
+          "team1": { "name": "Peru",  "code": "PER" },
+          "team2": { "name": "Chile", "code": "CHI" },
+          "score": {},
+          "group": "Group A"
+        },
+        ...
+      ],
+    },
+  ],
 }
 ```
 
