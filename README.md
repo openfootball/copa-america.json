@@ -1,31 +1,54 @@
-# Copa Sudamericana
+# copa-america.json
 
-## What's `football.db`?
+Free open public domain football data in the JSON (JavaScript Object Notation)
+data interchange format.
+Tournaments include:
 
-A free open public domain football (soccer) database & schema
-for use in any (programming) language
-(e.g. uses plain text fixtures/data sets).
-More [`football.db` Project Site »](http://openfootball.github.io)
+- Copa América 2021
+- Copa América 2024 
 
-## Intro
+Example - Copa América 2024 Match Schedule (Fixtures and Results) - [`2024/copa.json`](https://raw.githubusercontent.com/openfootball/copa-america.json/master/2024/copa.json):
 
-Free open public domain football data for clubs in South America. Events include:
+``` json
+{
 
-- CONMEBOL¹ Copa Sudamericana 
-
-<!-- footnotes "handmade" -->
-
-¹: CONMEBOL = South America;
+}
+```
 
 
-## Build Your Own `football.db` Copy
+## Updates / Contributions Welcome - Please Update the Football.TXT Sources
 
-Use the `sportdb` command line tool to build your own `football.db` copy
-from the plain text fixtures. [More »](https://github.com/openfootball/datafile)
+Note: The JSON files get (auto-)generated using the datasets in the Football.TXT format, thus, **please do NOT
+edit the (auto-)generated JSON files but the Football.TXT sources (upstream) in the tournament repos** e.g.:
+
+- Copa América in [**`/copa-america`**](https://github.com/openfootball/copa-america)
+
+Note: For the Copa América 2024 please update the source text file
+[`/copa-america/2024--usa/copa.txt`](https://github.com/openfootball/copa-america/blob/master/2024--usa/copa.txt) 
+for the group and knockout (quarter-finals, semi-finals, etc.) stage.
+
+
+## Add Your Leagues and Tournaments!
+
+Any leagues or tournaments missing? Contributions welcome!
+For starting your own repo from scratch see the [League Quick Starter Kit](https://github.com/openfootball/league-starter).
+
+
+## More - Add Your Scripts Here
+
+Your Script Here
+
+
+
+## License
+
+The copa-america.json schema, data and scripts are dedicated to the public domain. Use it as you please with no restrictions whatsoever.
+
+
 
 
 ## Questions? Comments?
 
-Send them along to the
-[Open Sports & Friends Forum/Mailing List](http://groups.google.com/group/opensport).
-Thanks!
+Yes, you can. More than welcome.
+See [Help & Support »](https://github.com/openfootball/help)
+

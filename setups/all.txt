@@ -1,7 +1,0 @@
-
-## leagues
-copa-sudamericana!/leagues
-
-## fixtures
-copa-sudamericana!/2012/sudamericana
-
