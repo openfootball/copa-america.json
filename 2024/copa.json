@@ -17,14 +17,26 @@
             "code": "CAN"
           },
           "score": {
+            "ft": [
+              2,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Álvarez",
+              "minute": 49
+            },
+            {
+              "name": "La. Martínez",
+              "minute": 88
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group A"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 2",
-      "matches": [
+        },
         {
           "num": 2,
           "date": "2024-06-21",
@@ -38,14 +50,13 @@
             "code": "CHI"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ]
           },
           "group": "Group A"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 3",
-      "matches": [
+        },
         {
           "num": 7,
           "date": "2024-06-22",
@@ -77,12 +88,7 @@
           "score": {
           },
           "group": "Group B"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 4",
-      "matches": [
+        },
         {
           "num": 13,
           "date": "2024-06-23",
@@ -114,12 +120,7 @@
           "score": {
           },
           "group": "Group C"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 5",
-      "matches": [
+        },
         {
           "num": 19,
           "date": "2024-06-24",
@@ -155,7 +156,7 @@
       ]
     },
     {
-      "name": "Matchday 6",
+      "name": "Matchday 2",
       "matches": [
         {
           "num": 3,
@@ -188,12 +189,7 @@
           "score": {
           },
           "group": "Group A"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 7",
-      "matches": [
+        },
         {
           "num": 9,
           "date": "2024-06-26",
@@ -225,12 +221,7 @@
           "score": {
           },
           "group": "Group B"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 8",
-      "matches": [
+        },
         {
           "num": 15,
           "date": "2024-06-27",
@@ -262,12 +253,7 @@
           "score": {
           },
           "group": "Group C"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 9",
-      "matches": [
+        },
         {
           "num": 21,
           "date": "2024-06-28",
@@ -303,7 +289,7 @@
       ]
     },
     {
-      "name": "Matchday 10",
+      "name": "Matchday 3",
       "matches": [
         {
           "num": 5,
@@ -336,12 +322,7 @@
           "score": {
           },
           "group": "Group A"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 11",
-      "matches": [
+        },
         {
           "num": 11,
           "date": "2024-06-30",
@@ -373,12 +354,7 @@
           "score": {
           },
           "group": "Group B"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 12",
-      "matches": [
+        },
         {
           "num": 17,
           "date": "2024-07-01",
@@ -410,12 +386,7 @@
           "score": {
           },
           "group": "Group C"
-        }
-      ]
-    },
-    {
-      "name": "Matchday 13",
-      "matches": [
+        },
         {
           "num": 23,
           "date": "2024-07-02",
