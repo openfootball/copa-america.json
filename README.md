@@ -22,7 +22,10 @@ Example - Copa América 2024 Match Schedule (Fixtures and Results) - [`2024/copa
           "time": "20:00",
           "team1": { "name": "Argentina", "code": "ARG" },
           "team2": { "name": "Canada",    "code": "CAN" },
-          "score": {},
+          "score": { "ft": [2,0] },
+          "goals1": [{"name": "Álvarez",      "minute": 49 },
+                     {"name": "La. Martínez", "minute": 88 }],
+          "goals2": [],
           "group": "Group A"
         },
         {
@@ -31,7 +34,7 @@ Example - Copa América 2024 Match Schedule (Fixtures and Results) - [`2024/copa
           "time": "19:00",
           "team1": { "name": "Peru",  "code": "PER" },
           "team2": { "name": "Chile", "code": "CHI" },
-          "score": {},
+          "score": { "ft": [0,0] },
           "group": "Group A"
         },
         ...
