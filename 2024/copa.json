@@ -70,7 +70,27 @@
             "code": "VEN"
           },
           "score": {
+            "ft": [
+              1,
+              2
+            ]
           },
+          "goals1": [
+            {
+              "name": "Sarmiento",
+              "minute": 40
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Cádiz",
+              "minute": 64
+            },
+            {
+              "name": "Bello",
+              "minute": 74
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -86,7 +106,20 @@
             "code": "JAM"
           },
           "score": {
+            "ft": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Arteaga",
+              "minute": 69
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
@@ -102,7 +135,24 @@
             "code": "BOL"
           },
           "score": {
+            "ft": [
+              2,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Pulisic",
+              "minute": 3
+            },
+            {
+              "name": "Balogun",
+              "minute": 44
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group C"
         },
         {
@@ -118,7 +168,33 @@
             "code": "PAN"
           },
           "score": {
+            "ft": [
+              3,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "M. Araújo",
+              "minute": 16
+            },
+            {
+              "name": "Núñez",
+              "minute": 85
+            },
+            {
+              "name": "Viña",
+              "minute": 90,
+              "offset": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Murillo",
+              "minute": 90,
+              "offset": 5
+            }
+          ],
           "group": "Group C"
         },
         {
