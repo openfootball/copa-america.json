@@ -210,7 +210,27 @@
             "code": "PAR"
           },
           "score": {
+            "ft": [
+              2,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Muñoz",
+              "minute": 32
+            },
+            {
+              "name": "Lerma",
+              "minute": 42
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Enciso",
+              "minute": 69
+            }
+          ],
           "group": "Group D"
         },
         {
@@ -226,6 +246,10 @@
             "code": "CRC"
           },
           "score": {
+            "ft": [
+              0,
+              0
+            ]
           },
           "group": "Group D"
         }
@@ -247,7 +271,20 @@
             "code": "CAN"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "David",
+              "minute": 74
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -263,7 +300,20 @@
             "code": "ARG"
           },
           "score": {
+            "ft": [
+              0,
+              1
+            ]
           },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "La. Martínez",
+              "minute": 88
+            }
+          ],
           "group": "Group A"
         },
         {
@@ -279,7 +329,35 @@
             "code": "JAM"
           },
           "score": {
+            "ft": [
+              3,
+              1
+            ]
           },
+          "goals1": [
+            {
+              "name": "Palmer",
+              "minute": 13,
+              "owngoal": true
+            },
+            {
+              "name": "Páez",
+              "minute": 45,
+              "offset": 4,
+              "penalty": true
+            },
+            {
+              "name": "Minda",
+              "minute": 90,
+              "offset": 1
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Antonio",
+              "minute": 54
+            }
+          ],
           "group": "Group B"
         },
         {
@@ -295,7 +373,21 @@
             "code": "MEX"
           },
           "score": {
+            "ft": [
+              1,
+              0
+            ]
           },
+          "goals1": [
+            {
+              "name": "Rondón",
+              "minute": 57,
+              "penalty": true
+            }
+          ],
+          "goals2": [
+
+          ],
           "group": "Group B"
         },
         {
