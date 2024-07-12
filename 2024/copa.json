@@ -961,7 +961,24 @@
             "code": "CAN"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Álvarez",
+              "minute": 22
+            },
+            {
+              "name": "Messi",
+              "minute": 51
+            }
+          ],
+          "goals2": [
+
+          ]
         },
         {
           "num": 30,
@@ -976,20 +993,61 @@
             "code": "COL"
           },
           "score": {
-          }
+            "ft": [
+              0,
+              1
+            ]
+          },
+          "goals1": [
+
+          ],
+          "goals2": [
+            {
+              "name": "Lerma",
+              "minute": 39
+            }
+          ]
         }
       ]
     },
     {
       "name": "Third place play-off",
       "matches": [
-
+        {
+          "num": 31,
+          "date": "2024-07-13",
+          "time": "20:00",
+          "team1": {
+            "name": "Canada",
+            "code": "CAN"
+          },
+          "team2": {
+            "name": "Uruguay",
+            "code": "URU"
+          },
+          "score": {
+          }
+        }
       ]
     },
     {
       "name": "Final",
       "matches": [
-
+        {
+          "num": 32,
+          "date": "2024-07-14",
+          "time": "20:00",
+          "team1": {
+            "name": "Argentina",
+            "code": "ARG"
+          },
+          "team2": {
+            "name": "Colombia",
+            "code": "COL"
+          },
+          "score": {
+          }
+        }
       ]
     }
   ]
