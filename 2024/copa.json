@@ -1026,7 +1026,32 @@
             "code": "URU"
           },
           "score": {
-          }
+            "ft": [
+              2,
+              2
+            ]
+          },
+          "goals1": [
+            {
+              "name": "Koné",
+              "minute": 22
+            },
+            {
+              "name": "David",
+              "minute": 80
+            }
+          ],
+          "goals2": [
+            {
+              "name": "Bentancur",
+              "minute": 8
+            },
+            {
+              "name": "Suárez",
+              "minute": 90,
+              "offset": 2
+            }
+          ]
         }
       ]
     },
@@ -1046,7 +1071,24 @@
             "code": "COL"
           },
           "score": {
-          }
+            "ft": [
+              0,
+              0
+            ],
+            "et": [
+              1,
+              0
+            ]
+          },
+          "goals1": [
+            {
+              "name": "La. Martínez",
+              "minute": 112
+            }
+          ],
+          "goals2": [
+
+          ]
         }
       ]
     }
